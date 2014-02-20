@@ -1,0 +1,25 @@
+{
+  "name": "css-box-sizing-border-box",
+  "version": "0.0.0",
+  "description": "CSS for applying box-sizing: border-box; to every element.",
+  "style": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:colingourlay/css-box-sizing-border-box.git"
+  },
+  "keywords": [
+    "css",
+    "box-sizing",
+    "border-box"
+  ],
+  "author": {
+    "name": "Colin Gourlay",
+    "email": "colin@colin-gourlay.com",
+    "url": "http://colin-gourlay.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colingourlay/css-box-sizing-border-box/issues"
+  },
+  "homepage": "https://github.com/colingourlay/css-box-sizing-border-box"
+}
