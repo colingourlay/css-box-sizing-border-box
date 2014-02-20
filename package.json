@@ -1,6 +1,6 @@
 {
   "name": "css-box-sizing-border-box",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CSS for applying box-sizing: border-box; to every element.",
   "style": "index.css",
   "repository": {
